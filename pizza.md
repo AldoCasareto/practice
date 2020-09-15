@@ -1,5 +1,6 @@
 Dough
 Tomato sauce
-Olives
-Onions
+Salami
+prosciutto
 Mozzarella
+
