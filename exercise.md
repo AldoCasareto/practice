@@ -1,4 +1,9 @@
-hello world
-Nav Bar
+Hello World!
+
+Logo
+    
+ Nav Bar
+    
 Header
+
 Footer
