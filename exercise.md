@@ -1,5 +1,4 @@
 hello world
-NavBar
+Nav Bar
 Header
-MAIN
 Footer
