@@ -1,4 +1,5 @@
 Dough
-White Sauce
-Olive
-Tuna Fish
+Tomato sauce
+Olives
+Onions
+Mozzarella
